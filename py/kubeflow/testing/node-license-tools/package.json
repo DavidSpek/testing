@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/kubeflow/testing#readme",
   "dependencies": {
-    "@octokit/auth-token": "^2.4.0",
+    "@octokit/auth-token": "^2.4.4",
     "@octokit/plugin-retry": "^3.0.1",
     "@octokit/rest": "^16.40.0",
     "await-semaphore": "^0.1.3",
