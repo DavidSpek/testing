@@ -2,7 +2,7 @@
 # to continuously update our docker files.
 #
 # The context for this docker file should be the root of the kubeflow/testing repository.
-FROM ubuntu:18.04
+FROM ubuntu:20.04
 
 RUN apt-get update -y && \
     apt-get install -y curl git python3.8 python3-pip wget && \
