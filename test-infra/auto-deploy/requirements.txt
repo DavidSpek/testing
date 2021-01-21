@@ -1,5 +1,5 @@
 -i https://pypi.org/simple
-asn1crypto==0.24.0
+asn1crypto==1.4.0
 cffi==1.13.2
 fire==0.2.1
 flask==1.1.1
