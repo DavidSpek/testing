@@ -44,7 +44,7 @@ RUN cd /tmp && \
 #
 # Use distroless as minimal base image to package the manager binary
 # Refer to https://github.com/GoogleContainerTools/distroless for more details
-FROM alpine:3.11
+FROM alpine:3.13.1
 
 WORKDIR /
 
