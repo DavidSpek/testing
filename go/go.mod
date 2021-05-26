@@ -14,9 +14,8 @@ require (
 	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/cobra v1.0.0
 	github.com/tidwall/gjson v1.6.0 // indirect
-	go.uber.org/zap v1.10.0
+	go.uber.org/zap v1.17.0
 	k8s.io/apimachinery v0.19.3
 	k8s.io/client-go v0.19.3
-	k8s.io/klog v1.0.0 // indirect
 	k8s.io/utils v0.0.0-20201027101359-01387209bb0d // indirect
 )
